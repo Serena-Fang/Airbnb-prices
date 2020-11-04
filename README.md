@@ -7,11 +7,11 @@ Two Research Questions:
 
 Results: 
 
-![GitHub Logo](/fg1.png)
+![fg1](/images/fg1.png)
 Format: ![Alt Text](url)
 
-[[fg1.png]]
+![fg2](/images/fg2.png)
+Format: ![Alt Text](url)
 
-https://github.com/Serena-Fang/Airbnb-prices/blob/main/fg2.png
-
-https://github.com/Serena-Fang/Airbnb-prices/blob/main/fg3.png
+![fg3](/images/fg3.png)
+Format: ![Alt Text](url)
