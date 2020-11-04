@@ -8,10 +8,7 @@ Two Research Questions:
 Results: 
 
 ![fg1](/images/fg1.png)
-Format: ![Alt Text](url)
 
 ![fg2](/images/fg2.png)
-Format: ![Alt Text](url)
 
 ![fg3](/images/fg3.png)
-Format: ![Alt Text](url)
