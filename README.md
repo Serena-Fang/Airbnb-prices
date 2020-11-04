@@ -7,8 +7,8 @@ Two Research Questions:
 
 Results: 
 
-![fg1](/images/fg1.png)
+![fg1](/fg1.png)
 
-![fg2](/images/fg2.png)
+![fg2](/fg2.png)
 
-![fg3](/images/fg3.png)
+![fg3](/fg3.png)
