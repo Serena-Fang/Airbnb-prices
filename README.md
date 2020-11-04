@@ -7,7 +7,7 @@ Two Research Questions:
 
 Results: 
 
-![GitHub Logo](/images/fg1.png)
+![GitHub Logo](/fg1.png)
 
 ![GitHub Logo](/images/fg2.png)
 
