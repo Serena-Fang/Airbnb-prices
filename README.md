@@ -7,8 +7,8 @@ Two Research Questions:
 
 Results: 
 
-![fg1](/fg1.png)
+![GitHub Logo](/images/fg1.png)
 
-![fg2](/fg2.png)
+![GitHub Logo](/images/fg2.png)
 
-![fg3](/fg3.png)
+![fg3](/images/fg3.png)
