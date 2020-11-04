@@ -6,7 +6,8 @@ Two Research Questions:
 * Based on room type, which neighborhood in NYC has the highest average number of Airbnb reviews?
 
 Results: 
-https://github.com/Serena-Fang/Airbnb-prices/blob/main/fg1.png
+![Image of Yaktocat]
+(https://github.com/Serena-Fang/Airbnb-prices/blob/main/fg1.png)
 
 https://github.com/Serena-Fang/Airbnb-prices/blob/main/fg2.png
 
